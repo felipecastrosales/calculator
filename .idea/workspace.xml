@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="991801be-b77f-4df7-8170-80cdedc16122" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1eJPp17D1oA0BZkXp70H5v9nyOu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="991801be-b77f-4df7-8170-80cdedc16122" name="Default Changelist" comment="" />
+      <created>1594036901711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594036901711</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1403" y="175" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594037089271">
+      <screen x="-1920" y="-148" width="1920" height="1040" />
+    </state>
+    <state x="-1403" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1594037089271" />
+    <state width="982" height="174" key="GridCell.Tab.0.bottom" timestamp="1598713571006">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1450" height="277" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1594065341679" />
+    <state width="982" height="174" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1598713571006" />
+    <state width="982" height="174" key="GridCell.Tab.0.center" timestamp="1598713571005">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1450" height="277" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1594065341679" />
+    <state width="982" height="174" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1598713571005" />
+    <state width="982" height="174" key="GridCell.Tab.0.left" timestamp="1598713571005">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1450" height="277" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1594065341677" />
+    <state width="982" height="174" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1598713571005" />
+    <state width="982" height="174" key="GridCell.Tab.0.right" timestamp="1598713571005">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1450" height="277" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1594065341679" />
+    <state width="982" height="174" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1598713571005" />
+    <state x="59" y="0" width="1314" height="776" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598713479537">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="59" y="0" width="1314" height="735" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1594053998280" />
+    <state x="59" y="0" width="1314" height="776" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.768@0.0.1366.768" timestamp="1598713479537" />
+    <state x="-1512" y="168" key="run.anything.popup" timestamp="1594065252634">
+      <screen x="-1920" y="-148" width="1920" height="1040" />
+    </state>
+    <state x="-1512" y="168" key="run.anything.popup/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1594065252634" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/components/keyboard.dart</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
