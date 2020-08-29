@@ -4,11 +4,23 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="991801be-b77f-4df7-8170-80cdedc16122" name="Default Changelist" comment="" />
+    <list default="true" id="991801be-b77f-4df7-8170-80cdedc16122" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Github\calculator\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1eJPp17D1oA0BZkXp70H5v9nyOu" />
   <component name="ProjectViewState">
@@ -19,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../calculadora_imc" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="SvnConfiguration">
@@ -40,6 +52,10 @@
       <screen x="-1920" y="-148" width="1920" height="1040" />
     </state>
     <state x="-1403" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1594037089271" />
+    <state x="301" y="139" key="FileChooserDialogImpl" timestamp="1598730861373">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="301" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1598730861373" />
     <state width="982" height="174" key="GridCell.Tab.0.bottom" timestamp="1598713571006">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -60,11 +76,11 @@
     </state>
     <state width="1450" height="277" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1594065341679" />
     <state width="982" height="174" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1598713571005" />
-    <state x="59" y="0" width="1314" height="776" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598713479537">
+    <state x="59" y="0" width="1314" height="776" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598729986133">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="59" y="0" width="1314" height="735" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1594053998280" />
-    <state x="59" y="0" width="1314" height="776" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.768@0.0.1366.768" timestamp="1598713479537" />
+    <state x="59" y="0" width="1314" height="776" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.768@0.0.1366.768" timestamp="1598729986133" />
     <state x="-1512" y="168" key="run.anything.popup" timestamp="1594065252634">
       <screen x="-1920" y="-148" width="1920" height="1040" />
     </state>
