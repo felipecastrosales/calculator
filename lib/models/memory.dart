@@ -58,7 +58,7 @@ class Memory {
       return;
     }
     final emptyValue = isDot ? '0' : '';
-    final currentValue = wipeValue ? '' : _value;
+    final currentValue = wipeValue ? emptyValue : _value;
     _value = currentValue + digit;
     _wipeValue = false;
     _buffer[_bufferIndex] = double.tryParse(_value) ?? 0;
