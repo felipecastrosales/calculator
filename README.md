@@ -35,10 +35,10 @@
 
    ```   
    - Clone this repository:
-   $ git clone https://github.com/felipecastrosales/calculator-flutter
+   $ git clone https://github.com/felipecastrosales/calculator
 
    - Enter in directory:
-   $ cd calculator-flutter
+   $ cd calculator
 
    - For install dependencies:
    $ flutter packages get
@@ -51,11 +51,11 @@
 
    <h2 align="center">License 📝</h2>
 
-   This repository is under MIT license. You can see the [LICENSE](https://github.com/felipecastrosales/Calculator-Flutter/blob/master/LICENSE) file for more details. 😉
+   This repository is under MIT license. You can see the [LICENSE](https://github.com/felipecastrosales/Calculator/blob/master/LICENSE) file for more details. 😉
 
    ---
 
-   >This project was developed with ❤️ by **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, with the instructor **[Leonardo Leitão](https://www.linkedin.com/in/leonardo-leit%C3%A3o-8a5813186/?originalSubdomain=br)**, in the course  **["Learn Flutter and Develop Apps for Android and iOS 2020"](https://www.udemy.com/course/curso-flutter)** on **[Udemy](https://www.udemy.com/)**. <br>
+   >This project was developed with ❤️ by **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, with the instructor **[Leonardo Leitão](https://www.linkedin.com/in/leonardo-leit%C3%A3o-8a5813186/)**, in the course  **["Learn Flutter and Develop Apps for Android and iOS 2020"](https://www.udemy.com/course/curso-flutter)** on **[Udemy](https://www.udemy.com/)**. <br>
    If it helped you, give ⭐, contribute, it will help me too 😉
 
 ---
