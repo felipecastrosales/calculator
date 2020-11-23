@@ -7,19 +7,18 @@
 
 <h2 align="center">Topics 📋</h2>
 
-   <p>
+ <p>
    
 - [About 📖](#about-)
-
 - [Preview 📱](#preview-)
-
 - [Challenges and Learnings along the way 🤯](#---challenges-and-learnings-along-the-way----)
-
 - [How to Use 🤔](#how-to-use-)
-
 - [How to Contribute 💪](#how-to-contribute-)
-
 - [License 📝](#license-)
+
+</p>
+
+---
 
    <h2 align="center">About 📖</h2>
    
