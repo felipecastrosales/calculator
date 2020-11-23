@@ -6,7 +6,6 @@ import '../components/keyboard.dart';
 
 
 class Calculator extends StatefulWidget {
-
   @override
   _CalculatorState createState() => _CalculatorState();
 }
