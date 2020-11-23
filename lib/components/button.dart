@@ -38,11 +38,11 @@ class Button extends StatelessWidget {
       child: RaisedButton(
         color: this.color,
         child: Text(
-         text,
-         style: TextStyle(
-           color: Colors.white,
-           fontSize: 32,
-           fontWeight: FontWeight.w200,
+          text,
+          style: TextStyle(
+            color: Colors.white,
+            fontSize: 32,
+            fontWeight: FontWeight.w200,
           ),
         ),
         onPressed: () => cb(text),

@@ -1,8 +1,25 @@
  <p align="center">
-      <img src="https://user-images.githubusercontent.com/59374587/91643531-65665800-ea0a-11ea-869d-1f1095913a4c.png" width="35%" alt="https://www.freepik.com/work/>Illustration by Freepik Stories"/>
+      <img src="https://user-images.githubusercontent.com/59374587/91643531-65665800-ea0a-11ea-869d-1f1095913a4c.png" width="25%" alt="https://www.freepik.com/work/>Illustration by Freepik Stories"/>
    </p>
 
    <h1 align="center">Calculator with Flutter</h1>
+
+
+<h2 align="center">Topics 📋</h2>
+
+   <p>
+   
+- [About 📖](#about-)
+
+- [Preview 📱](#preview-)
+
+- [Challenges and Learnings along the way 🤯](#---challenges-and-learnings-along-the-way----)
+
+- [How to Use 🤔](#how-to-use-)
+
+- [How to Contribute 💪](#how-to-contribute-)
+
+- [License 📝](#license-)
 
    <h2 align="center">About 📖</h2>
    
@@ -17,7 +34,7 @@
    <h2 align="center">Preview 📱</h2><br>
 
    <p align="center">
-   <img src="https://user-images.githubusercontent.com/59374587/91643404-4adfaf00-ea09-11ea-8978-826022dd6fae.gif">
+   <img src="https://user-images.githubusercontent.com/59374587/91643404-4adfaf00-ea09-11ea-8978-826022dd6fae.gif" width="400">
    </p>
 
 ---
@@ -48,6 +65,23 @@
    ```
 
    ---
+
+   <h2 align="center">How to Contribute 💪</h2>
+
+   ```
+   - Fork the project 
+
+   - Create a new branch with your changes:
+   $ git checkout -b my-feature
+
+   - Save your changes and create a commit message telling you what you did:
+   $ git commit -m "feature: My new feature"
+
+   - Submit your changes:
+   $ git push origin my-feature
+   ```
+
+---
 
    <h2 align="center">License 📝</h2>
 
