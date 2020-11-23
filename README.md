@@ -1,5 +1,5 @@
  <p align="center">
-      <img src="https://user-images.githubusercontent.com/59374587/91643531-65665800-ea0a-11ea-869d-1f1095913a4c.png" width="35%" alt="https://www.freepik.com/work/>Illustration by Freepik Stories"/>
+      <img src="https://user-images.githubusercontent.com/59374587/91643531-65665800-ea0a-11ea-869d-1f1095913a4c.png" width="25%" alt="https://www.freepik.com/work/>Illustration by Freepik Stories"/>
    </p>
 
    <h1 align="center">Calculator with Flutter</h1>
