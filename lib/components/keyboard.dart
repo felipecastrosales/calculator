@@ -1,51 +1,120 @@
 import 'package:flutter/material.dart';
-import 'button_row.dart';
+
 import 'button.dart';
+import 'button_row.dart';
 
 class Keyboard extends StatelessWidget {
+  const Keyboard({
+    super.key,
+    required this.onPressed,
+  });
 
-  final void Function(String) cb;
-
-  Keyboard(this.cb);
+  final void Function(String) onPressed;
 
   @override
   Widget build(BuildContext context) {
-    return Container(
+    return SizedBox(
       height: 500,
       child: Column(
         children: <Widget>[
-          ButtonRow([
-            Button.big(text: 'AC', color: Button.DARK, cb: cb),
-            Button(text: '%', color: Button.DARK, cb: cb),
-            Button.operation(text: '/', cb: cb),
-          ]),
-          SizedBox(height: 1),
-          ButtonRow([
-            Button(text: '7', cb: cb),
-            Button(text: '8', cb: cb),
-            Button(text: '9', cb: cb),
-            Button.operation(text: 'x', cb: cb),
-          ]),
-          SizedBox(height: 1),
-          ButtonRow([
-            Button(text: '4', cb: cb),
-            Button(text: '5', cb: cb),
-            Button(text: '6', cb: cb),
-            Button.operation(text: '-', cb: cb),
-          ]),
-          SizedBox(height: 1),
-          ButtonRow([
-            Button(text: '1', cb: cb),
-            Button(text: '2', cb: cb),
-            Button(text: '3', cb: cb),
-            Button.operation(text: '+', cb: cb),
-          ]),
-          SizedBox(height: 1),
-          ButtonRow([
-            Button.big(text: '0', cb: cb),
-            Button(text: '.', cb: cb),
-            Button.operation(text: '=', cb: cb),
-          ]),
+          ButtonRow(
+            buttons: [
+              Button.large(
+                text: 'AC',
+                color: Button.darkButtonColor,
+                onPressed: onPressed,
+              ),
+              Button(
+                text: '%',
+                color: Button.darkButtonColor,
+                onPressed: onPressed,
+              ),
+              Button.operation(
+                text: '/',
+                onPressed: onPressed,
+              ),
+            ],
+          ),
+          const SizedBox(height: 1),
+          ButtonRow(
+            buttons: [
+              Button(
+                text: '7',
+                onPressed: onPressed,
+              ),
+              Button(
+                text: '8',
+                onPressed: onPressed,
+              ),
+              Button(
+                text: '9',
+                onPressed: onPressed,
+              ),
+              Button.operation(
+                text: 'x',
+                onPressed: onPressed,
+              ),
+            ],
+          ),
+          const SizedBox(height: 1),
+          ButtonRow(
+            buttons: [
+              Button(
+                text: '4',
+                onPressed: onPressed,
+              ),
+              Button(
+                text: '5',
+                onPressed: onPressed,
+              ),
+              Button(
+                text: '6',
+                onPressed: onPressed,
+              ),
+              Button.operation(
+                text: '-',
+                onPressed: onPressed,
+              ),
+            ],
+          ),
+          const SizedBox(height: 1),
+          ButtonRow(
+            buttons: [
+              Button(
+                text: '1',
+                onPressed: onPressed,
+              ),
+              Button(
+                text: '2',
+                onPressed: onPressed,
+              ),
+              Button(
+                text: '3',
+                onPressed: onPressed,
+              ),
+              Button.operation(
+                text: '+',
+                onPressed: onPressed,
+              ),
+            ],
+          ),
+          const SizedBox(height: 1),
+          ButtonRow(
+            buttons: [
+              Button.large(
+                text: '0',
+                onPressed: onPressed,
+              ),
+              Button(
+                text: '.',
+                onPressed: onPressed,
+              ),
+              Button.operation(
+                text: '=',
+                onPressed: onPressed,
+              ),
+            ],
+          ),
         ],
       ),
     );
