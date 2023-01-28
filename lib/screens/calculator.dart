@@ -4,10 +4,11 @@ import 'package:flutter/services.dart';
 import '../components/display.dart';
 import '../components/keyboard.dart';
 
-
 class Calculator extends StatefulWidget {
+  const Calculator({super.key});
+
   @override
-  _CalculatorState createState() => _CalculatorState();
+  State<StatefulWidget> createState() => _CalculatorState();
 }
 
 class _CalculatorState extends State<Calculator> {
@@ -21,15 +22,18 @@ class _CalculatorState extends State<Calculator> {
 
   @override
   Widget build(BuildContext context) {
-    SystemChrome.setPreferredOrientations([
-      DeviceOrientation.portraitUp
-    ]);
+    SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
+
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Column(
-        children: <Widget>[
-          Display(memory.value),
-          Keyboard(_onPressed),
+        children: [
+          Display(
+            text: memory.value,
+          ),
+          Keyboard(
+            onPressed: _onPressed,
+          ),
         ],
       ),
     );
