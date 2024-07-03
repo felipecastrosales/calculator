@@ -3,7 +3,6 @@
 // To perform an interaction with a widget in your test, use the WidgetTester
 
 import 'package:flutter_test/flutter_test.dart';
-
 import 'package:calculator/screens/calculator.dart';
 
 void main() {
